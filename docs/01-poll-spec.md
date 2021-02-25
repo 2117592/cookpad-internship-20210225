@@ -19,7 +19,7 @@ https://github.com/sankichi92/cookpad-internship-20210225 を fork してくだ�
 
 fork したリポジトリを clone してください（事前準備の際に clone したものは削除して大丈夫です）。
 
-    $ git clone https://github.com/YOUR_GITHUB_ID/cookpad-internship-20210218.git
+    $ git clone https://github.com/YOUR_GITHUB_ID/cookpad-internship-20210225.git
 
 リポジトリに移動して、依存ライブラリをインストールします。
 
