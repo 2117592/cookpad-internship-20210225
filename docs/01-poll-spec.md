@@ -23,7 +23,7 @@ fork したリポジトリを clone してください（事前準備の際に c
 
 リポジトリに移動して、依存ライブラリをインストールします。
 
-    $ cd cookpad-internship-20210218
+    $ cd cookpad-internship-20210225
     $ bundle install
 
 以降のハンズオンは、このリポジトリ内で行います。
